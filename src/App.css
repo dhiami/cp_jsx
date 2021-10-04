@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+.titlered {
+  color: aliceblue;
+  background-color: gray;
+  min-height: 100px;
+  display: flex;
+  justify-content: center;
+}
+.img1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+}
+.img2 {
+  align-items: center;
+  width: 500px;
+  height: 500px;
+   display: flex;
+  justify-content: center;
+}
